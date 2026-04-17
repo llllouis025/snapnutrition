@@ -10,7 +10,7 @@ export default function Home() {
           <div className="w-8 h-8 bg-brand-600 rounded-lg flex items-center justify-center">
             <Camera className="w-5 h-5 text-white" />
           </div>
-          <span className="text-xl font-bold text-brand-700">NutriSnap</span>
+          <span className="text-xl font-bold text-brand-700">18NutriFacts</span>
         </div>
         <div className="flex gap-3">
           <Link href="/login" className="btn-secondary text-sm">登入</Link>

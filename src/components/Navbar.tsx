@@ -31,7 +31,7 @@ export default function Navbar({ email }: { email: string }) {
             <div className="w-7 h-7 bg-brand-600 rounded-lg flex items-center justify-center">
               <Camera className="w-4 h-4 text-white" />
             </div>
-            <span className="font-bold text-brand-700 text-sm hidden sm:block">NutriSnap</span>
+            <span className="font-bold text-brand-700 text-sm hidden sm:block">18NutriFacts</span>
           </Link>
 
           <nav className="flex items-center gap-1">
